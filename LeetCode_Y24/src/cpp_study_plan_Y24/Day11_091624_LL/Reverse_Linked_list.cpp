@@ -36,8 +36,19 @@ struct ListNode{
 
 ListNode* reverseList(ListNode* head){
 
+	ListNode *prev = NULL;
+	ListNode *cur = head;
+	ListNode *Next = NULL;
 
 
+	while(cur != NULL){
+		Next = cur -> next;
+		cur -> next = prev;
+		prev = cur;
+		cur = Next;
+	}
+
+	return prev;
 }
 
 

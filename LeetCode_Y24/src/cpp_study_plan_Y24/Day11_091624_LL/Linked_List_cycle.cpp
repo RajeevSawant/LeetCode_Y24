@@ -49,10 +49,17 @@ bool hasCycle(ListNode* list){
 
 	unordered_map<ListNode* , int> mp;
 
+	while(list != NULL){
 
+		if (mp.find(list) != mp.end()){
+			return true;
+		}
 
+		mp[list] = 1;
+		list = list -> next;
+	}
 
-
+	return false;
 }
 
 
