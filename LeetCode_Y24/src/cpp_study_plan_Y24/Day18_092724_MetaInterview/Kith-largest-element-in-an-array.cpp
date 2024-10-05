@@ -70,21 +70,21 @@ int quickSelect(vector<int>& nums, int k){
 	for (int num: nums){
 
 		if (num > pivot){
-			left.push_back(num);
-		}else if (num < pivot){
 			right.push_back(num);
+		}else if (num < pivot){
+			left.push_back(num);
 		}else{
 			mid.push_back(num);
 		}
 
 	}
 
-	if (k <= left.size()){
-		return quickSelect(left, k);
+	if (k <= right.size()){
+		return quickSelect(right, k);
 	}
 
-	if (left.size() + right.size() < k){
-		return quickSelect(right, k - left.size() - mid.size());
+	if (right.size() + mid.size() < k){
+		return quickSelect(left, k - right.size() - mid.size());
 	}
 
 	return pivot;
