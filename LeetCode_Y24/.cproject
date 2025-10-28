@@ -42,7 +42,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="cpp_study_plan_Y24/Day01_090624_Ary|LeetCode_Y24.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
+						<entry excluding="cpp_study_plan_Y24/Day28_101324_Amazon|cpp_study_plan_Y24/Day24_100624_MetaInterview|cpp_study_plan_Y24/Day15_092124_stack|cpp_study_plan_Y24/Day07_091224_stack|cpp_study_plan_Y24/Day17_092424_MetaInterview|cpp_study_plan_Y24/Day06_091124_DivideConquer|cpp_study_plan_Y24/Day12_091824_BM|cpp_study_plan_Y24/Day25_100724_MetaInterview|cpp_study_plan_Y24/Day13_091924_matrix|cpp_study_plan_Y24/Day20_100124_MetaInterview|cpp_study_plan_Y24/Day26_100824_MetaInterview|cpp_study_plan_Y24/Day16_092324_TwoPointers|cpp_study_plan_Y24/Day08_091324_TwoPointers|cpp_study_plan_Y24/Day14_092024_DivideConquer|cpp_study_plan_Y24/Day21_100224_MetaInterview|cpp_study_plan_Y24/Day03_090824_LL|cpp_study_plan_Y24/Day04_090924_BM/reverse_bits.cpp|cpp_study_plan_Y24/Day01_090624_Ary|cpp_study_plan_Y24/Day27_101124_MetaInterview|cpp_study_plan_Y24/Day18_092724_MetaInterview|cpp_study_plan_Y24/Day19_092924_MetaInterview|LeetCode_Y24.cpp|cpp_study_plan_Y24/Day23_100524_MetaInterview|cpp_study_plan_Y24/Day22_100324_MetaInterview|cpp_study_plan_Y24/Day10_091524_string|cpp_study_plan_Y24/Day02_090724_string|cpp_study_plan_Y24/Day05_091024_matrix|cpp_study_plan_Y24/Day04_090924_BM|cpp_study_plan_Y24/Day11_091624_LL|cpp_study_plan_Y24/Day09_091424_Ary" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -89,7 +89,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="cpp_study_plan_Y24/Day01_090624_Ary|LeetCode_Y24.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
+						<entry excluding="cpp_study_plan_Y24/Day28_101324_Amazon|cpp_study_plan_Y24/Day24_100624_MetaInterview|cpp_study_plan_Y24/Day15_092124_stack|cpp_study_plan_Y24/Day07_091224_stack|cpp_study_plan_Y24/Day17_092424_MetaInterview|cpp_study_plan_Y24/Day06_091124_DivideConquer|cpp_study_plan_Y24/Day12_091824_BM|cpp_study_plan_Y24/Day25_100724_MetaInterview|cpp_study_plan_Y24/Day13_091924_matrix|cpp_study_plan_Y24/Day20_100124_MetaInterview|cpp_study_plan_Y24/Day26_100824_MetaInterview|cpp_study_plan_Y24/Day16_092324_TwoPointers|cpp_study_plan_Y24/Day08_091324_TwoPointers|cpp_study_plan_Y24/Day14_092024_DivideConquer|cpp_study_plan_Y24/Day21_100224_MetaInterview|cpp_study_plan_Y24/Day03_090824_LL|cpp_study_plan_Y24/Day04_090924_BM/reverse_bits.cpp|cpp_study_plan_Y24/Day01_090624_Ary|cpp_study_plan_Y24/Day27_101124_MetaInterview|cpp_study_plan_Y24/Day18_092724_MetaInterview|cpp_study_plan_Y24/Day19_092924_MetaInterview|LeetCode_Y24.cpp|cpp_study_plan_Y24/Day23_100524_MetaInterview|cpp_study_plan_Y24/Day22_100324_MetaInterview|cpp_study_plan_Y24/Day10_091524_string|cpp_study_plan_Y24/Day02_090724_string|cpp_study_plan_Y24/Day05_091024_matrix|cpp_study_plan_Y24/Day04_090924_BM|cpp_study_plan_Y24/Day11_091624_LL|cpp_study_plan_Y24/Day09_091424_Ary" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
